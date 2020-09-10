@@ -2,7 +2,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     password: admin
-    url: jdbc:mysql://localhost:3306/fornecedor?allowPublicKeyRetrieval=true&sslMode=DISABLED&serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/loja?allowPublicKeyRetrieval=true&sslMode=DISABLED&serverTimezone=UTC
     username: root
   jpa:
     hibernate:
